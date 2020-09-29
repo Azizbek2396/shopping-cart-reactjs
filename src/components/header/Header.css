@@ -1,0 +1,16 @@
+.nav {
+    color: #000;
+}
+.nav-item:hover a {
+    text-decoration: underline;
+}
+
+.nav-item a {
+    margin-right: 15px;
+    color: #1a1a1a1a;
+}
+
+.shopping-cart-icon {
+    width: 20px;
+    margin-right: 10px;
+}

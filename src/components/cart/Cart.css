@@ -1,0 +1,22 @@
+.cart-img {
+    margin: 0px auto;
+    max-height: 50px;
+}
+
+.plus-button, .mines-button {
+    border-radius: 0%;
+}
+
+.svg-circleplus { 
+    height: 20px; 
+    background-color: #fff; 
+    border-radius: 50%; 
+}
+
+.plus-button .svg-circleplus {
+    stroke: #007bff; 
+}
+
+.mines-button .svg-circleplus {
+    stroke: red;
+}
